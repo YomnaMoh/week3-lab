@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'Carinapro2' ;
+  src: url(fonts/Carinapro2.ttf);
+}
+
+h1, h2, h3{
+  font-family: 'Carinapro'; font-weight: 500; font-size: 130px; line-height: 0;text-align: center;
+}
+
+.body2 {
+  background: url("redswirl.png");
+  position: center;
+  height: 400px;
+  width:auto;
+  filter: blur(50);
+  /* align-content: stretch; filter: blur(1.2); */
+}
+
